@@ -8,7 +8,7 @@ The program is pretty easy to use once u run it you will get to know everything 
 
 <h1>Libraries used</h1>
 Pytube - pip install pytube ;
-OS - pip install os (installed by default in most the cases)
+OS - pip install os (installed by default in most of he cases)
 
 <h1>Bugs</h1>
 There is no audio in 1080 and 480 vidoes because the itags which provide both audio and video of the respective resolutions are not working thats why....
